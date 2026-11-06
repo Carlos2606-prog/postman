@@ -1,0 +1,35 @@
+$kind: http-request
+name: https://api.mapbox.com/directions/v5/mapbox/walking/-73.36189%2C5.533118%3B-73.357405%2C5.55228
+description: ""
+url: https://api.mapbox.com/directions/v5/mapbox/walking/-73.36189%2C5.533118%3B-73.357405%2C5.55228?alternatives=true&continue_straight=true&geometries=geojson&language=en&overview=full&steps=true&access_token={{mapbox_api_token_1cj1}}
+method: GET
+queryParams:
+  - key: alternatives
+    value: "true"
+    disabled: false
+    description: ""
+  - key: continue_straight
+    value: "true"
+    disabled: false
+    description: ""
+  - key: geometries
+    value: geojson
+    disabled: false
+    description: ""
+  - key: language
+    value: en
+    disabled: false
+    description: ""
+  - key: overview
+    value: full
+    disabled: false
+    description: ""
+  - key: steps
+    value: "true"
+    disabled: false
+    description: ""
+  - key: access_token
+    value: "{{mapbox_api_token_1cj1}}"
+    disabled: false
+    description: ""
+order: 1000

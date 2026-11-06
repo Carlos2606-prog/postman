@@ -1,0 +1,6 @@
+$kind: collection
+name: Directions_API_Playground
+variables:
+  - key: mapbox_api_token_1cj1
+    secret: true
+    disabled: false

@@ -1,0 +1,8 @@
+$kind: http-request
+name: https://api.mapbox.com/matching/v5/mapbox/driving/-73.356313%2C5.546293%3B-73.351869%2C5.551301%3B-73.350691%2C5.549875%
+description: ""
+url: https://api.mapbox.com/matching/v5/mapbox/driving/-73.356313%2C5.546293%3B-73.351869%2C5.551301%3B-73.350691%2C5.549875%3B-73.351083%2C5.549139?access_token={{mapbox_api_token_1cj1}}
+method: GET
+queryParams:
+  access_token: "{{mapbox_api_token_1cj1}}"
+order: 1000

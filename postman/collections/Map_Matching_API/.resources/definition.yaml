@@ -1,0 +1,5 @@
+$kind: collection
+variables:
+  - key: mapbox_api_token_1cj1
+    secret: true
+    disabled: false
